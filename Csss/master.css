@@ -406,7 +406,8 @@ body {
 @media (max-width: 767px) {
   .contact .info .label,
   .contact .info .link {
-    font-size: 25px;
+    font-size: 18px;
+    
   }
 }
 /* End Contact */
